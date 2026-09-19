@@ -1,7 +1,7 @@
 const CACHE_NAME = "salat-app-v2";
 
 const FILES_TO_CACHE = [
-    "./moh.html",
+    "./index.html",
     "./manifest.json"
 ];
 
