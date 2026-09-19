@@ -1,0 +1,10 @@
+{
+  "name": "تطبيق الصلاة",
+  "short_name": "الصلاة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b6b3a",
+  "lang": "ar",
+  "dir": "rtl"
+}
